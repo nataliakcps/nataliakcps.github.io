@@ -1,0 +1,46 @@
+#recipe-page{
+    background-color: rgb(225, 44, 30);
+}
+#recipe-title{
+    font-size: 30px;
+}
+#recipe-image1{
+    border-radius: 50%;
+    border: 3px dotted rgb(41, 139, 0);
+}
+#recipe-image2{
+    border: 3px dotted rgb(41, 139, 0);
+    border-radius: 50%;
+    height: 240px;
+    width: 250px;
+}
+#recipe-image4{
+    border: 3px dotted rgb(41, 139, 0);
+    border-radius: 50%;
+}
+#ingredients{
+    background-color: rgb(255, 129, 119);
+    width: 150px;
+}
+#instructions{
+    background-color: rgb(238, 87, 75);
+    width: 600px;
+}
+.ingredient-item{
+    font-style: oblique;
+    color: rgb(83, 34, 34);
+    padding: 5px;
+}
+.step{
+    font-style: oblique;
+    color: rgb(83, 34, 34);
+    padding: 5px;
+}
+span{
+    font-weight: bold;
+}
+.sriracha-regular {
+    font-family: "Sriracha", serif;
+    font-weight: 400;
+    font-style: normal;
+}
